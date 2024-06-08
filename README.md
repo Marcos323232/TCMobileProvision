@@ -1,5 +1,5 @@
 This is a little library to access the embedded provisioning profile in iOS apps.
-marcos rocha owner
+marcos esteban rocha cordoba owner
     NSString *mobileprovisionPath = [[[NSBundle mainBundle] bundlePath]
         stringByAppendingPathComponent:@"embedded.mobileprovision"];
 
